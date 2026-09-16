@@ -1,4 +1,4 @@
-# Nomad & HashiCorp Vault Dynamic Secret Integration (DEV-154)
+# Nomad & HashiCorp Vault Dynamic Secret Integration 
 
 ## Architecture Overview
 This project demonstrates dynamic runtime secret injection into a Nomad service using HashiCorp Vault Workload Identity (JWT authentication) and template rendering without hardcoded credentials.
