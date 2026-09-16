@@ -1,0 +1,9 @@
+{
+  "name": "auth-service-vault",
+  "version": "1.0.0",
+  "description": "Auth service demonstrating Nomad and Vault secret integration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
